@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90)
 
 🖐<br>
-🏻반갑습니다<br>
+반갑습니다<br>
 기록하는 프론트엔드 개발자 안지수입니다.<br>
 
 개발 경험을 공유하고 기록하는 것을 좋아하며,<br>
@@ -12,7 +12,7 @@
 📗 : https://velog.io/@fejigu<br>
 
 **🛠 Skills 🛠**<br>
-<img src="https://img.shields.io/badge/#61DAFB?style=for-the-badge&logo=React&logoColor=blue"><br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=blue">
 
 **🔎 GitHub 🔎**<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjigu)](https://github.com/anuraghazra/github-readme-stats)<br>
