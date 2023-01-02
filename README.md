@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90)
-
+<div align="center">
 🖐<br>
 반갑습니다<br>
 기록하는 프론트엔드 개발자 안지수입니다.<br>
@@ -25,3 +25,4 @@
 **🔎 GitHub 🔎**<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjigu)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjigu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
