@@ -3,11 +3,11 @@
 🖐<br>
 반갑습니다<br>
 기록하는 프론트엔드 개발자 안지수입니다.<br>
-
 개발 경험을 공유하고 기록하는 것을 좋아하며,<br>
 항상 누구에게나 배우고 자 하는 개발자입니다.<br>
 <br>
 **📍 Contact 📍**<br>
+<a href="guajs0818@nave.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 📩 : guajs0818@nave.com<br>
 📗 : https://velog.io/@fejigu<br>
 
