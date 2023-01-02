@@ -7,7 +7,7 @@
 항상 누구에게나 배우고 자 하는 개발자입니다.<br>
 <br>
 **📍 Contact 📍**<br>
-<a href="mailto:guajs0818@nave.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guajs0818@nave.com"/></a>
+<a href="mailto:guajs0818@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guajs0818@gmail.com"/></a>
 <a href="https://velog.io/@fejigu/series" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 **🛠 Skills 🛠**<br>
